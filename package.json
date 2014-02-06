@@ -11,6 +11,11 @@
     "Scheduler",
     "task"
   ],
+  "homepage": "http://github.com/rspacjer/notyfication-sender",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:rspacjer/notyfication-sender.git"
+  },
   "author": "Rafal Spacjer",
   "dependencies": {
     "pg": "~2.11.1",
