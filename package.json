@@ -1,0 +1,19 @@
+{
+  "name": "notyfication-sender",
+  "version": "0.0.1",
+  "description": "Sample Node.js application for Heroku Scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Heroku",
+    "Scheduler",
+    "task"
+  ],
+  "author": "Rafal Spacjer",
+  "dependencies": {
+    "pg": "~2.11.1",
+    "sendgrid": "~1.0.0-rc.1.0"
+  }
+}
